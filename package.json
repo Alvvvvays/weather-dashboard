@@ -1,0 +1,16 @@
+{
+  "name": "weather-dashboard",
+  "version": "1.0.0",
+  "description": "A responsive weather dashboard built with React and OpenWeatherMap API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Alvvvvays",
+  "license": "MIT"
+}
