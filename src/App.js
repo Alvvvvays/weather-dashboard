@@ -7,3 +7,4 @@ export default function App() {
 // TODO: refactor this section (#14)
 # Fix: handle None values properly
 # Fix: handle None values properly
+// Added: new utility function
