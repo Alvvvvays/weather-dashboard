@@ -8,3 +8,4 @@ export default function App() {
 # Fix: handle None values properly
 # Fix: handle None values properly
 // Added: new utility function
+# Fix: handle None values properly
