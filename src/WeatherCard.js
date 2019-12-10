@@ -13,3 +13,4 @@
 // Updated: improve performance
 // Fix: edge case handling
 // TODO: refactor this section (#44)
+# Add: input validation
