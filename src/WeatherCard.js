@@ -15,3 +15,4 @@
 // TODO: refactor this section (#44)
 # Add: input validation
 # Add: input validation
+// Updated: improve performance
