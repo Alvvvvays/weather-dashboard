@@ -20,3 +20,4 @@
 // Refactor: cleaner implementation
 // TODO: refactor this section (#52)
 // chore: update comments
+// v2.12 - minor update
