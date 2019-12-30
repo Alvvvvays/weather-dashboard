@@ -16,3 +16,4 @@ export default function App() {
 // Added: new utility function
 // Updated: improve performance
 // Updated: improve performance
+// Fix: edge case handling
