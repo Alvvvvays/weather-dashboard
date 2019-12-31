@@ -23,3 +23,4 @@
 // v2.12 - minor update
 // v2.13 - minor update
 // Fix: edge case handling
+// v2.24 - minor update
