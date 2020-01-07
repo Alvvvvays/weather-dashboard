@@ -15,3 +15,4 @@
 // v2.28 - minor update
 # Add: input validation
 // Updated: improve performance
+# Fix: handle None values properly
