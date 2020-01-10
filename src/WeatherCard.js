@@ -26,3 +26,4 @@
 // v2.24 - minor update
 // Updated: improve performance
 // TODO: refactor this section (#87)
+// Refactor: cleaner implementation
