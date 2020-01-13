@@ -27,3 +27,4 @@
 // Updated: improve performance
 // TODO: refactor this section (#87)
 // Refactor: cleaner implementation
+# Updated logic for better readability
