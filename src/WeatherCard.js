@@ -28,3 +28,4 @@
 // TODO: refactor this section (#87)
 // Refactor: cleaner implementation
 # Updated logic for better readability
+# Fix: handle None values properly
