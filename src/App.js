@@ -20,3 +20,4 @@ export default function App() {
 // Fix: edge case handling
 // v2.41 - minor update
 // chore: update comments
+// TODO: refactor this section (#104)
