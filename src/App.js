@@ -22,3 +22,4 @@ export default function App() {
 // chore: update comments
 // TODO: refactor this section (#104)
 // chore: update comments
+// Refactor: cleaner implementation
