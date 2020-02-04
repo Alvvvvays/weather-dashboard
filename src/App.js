@@ -23,3 +23,4 @@ export default function App() {
 // TODO: refactor this section (#104)
 // chore: update comments
 // Refactor: cleaner implementation
+# Fix: handle None values properly
