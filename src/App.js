@@ -24,3 +24,4 @@ export default function App() {
 // chore: update comments
 // Refactor: cleaner implementation
 # Fix: handle None values properly
+# Updated logic for better readability
