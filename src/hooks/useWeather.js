@@ -6,3 +6,4 @@
 // chore: update comments
 // Updated: improve performance
 // Refactor: cleaner implementation
+# Add: input validation
