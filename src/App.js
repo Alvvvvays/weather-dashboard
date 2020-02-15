@@ -27,3 +27,4 @@ export default function App() {
 # Updated logic for better readability
 // TODO: refactor this section (#124)
 // TODO: refactor this section (#125)
+// Fix: edge case handling
