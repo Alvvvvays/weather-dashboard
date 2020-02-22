@@ -28,3 +28,4 @@ export default function App() {
 // TODO: refactor this section (#124)
 // TODO: refactor this section (#125)
 // Fix: edge case handling
+# Updated logic for better readability
