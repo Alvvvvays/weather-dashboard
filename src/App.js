@@ -39,3 +39,4 @@ export default function App() {
 // Fix: edge case handling
 # Add: input validation
 // chore: update comments
+# Fix: handle None values properly
