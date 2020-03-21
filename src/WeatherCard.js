@@ -41,3 +41,4 @@
 // TODO: refactor this section (#174)
 // Refactor: cleaner implementation
 // Fix: edge case handling
+// Updated: improve performance
