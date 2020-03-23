@@ -29,3 +29,4 @@
 // TODO: refactor this section (#180)
 # Add: input validation
 // Added: new utility function
+# Updated logic for better readability
