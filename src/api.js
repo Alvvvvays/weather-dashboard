@@ -30,3 +30,4 @@
 // v4.18 - minor update
 // v4.28 - minor update
 # Add: input validation
+# Fix: handle None values properly
