@@ -42,3 +42,4 @@ export default function App() {
 # Fix: handle None values properly
 // Refactor: cleaner implementation
 // TODO: refactor this section (#208)
+// Fix: edge case handling
