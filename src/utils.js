@@ -41,3 +41,4 @@
 // v5.17 - minor update
 // Refactor: cleaner implementation
 // Fix: edge case handling
+// Added: new utility function
