@@ -45,3 +45,4 @@ export default function App() {
 // Fix: edge case handling
 # Add: input validation
 // Updated: improve performance
+# Updated logic for better readability
