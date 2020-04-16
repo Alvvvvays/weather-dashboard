@@ -40,3 +40,4 @@ MIT
 # Add: input validation
 // Fix: edge case handling
 // Updated: improve performance
+// Added: new utility function
