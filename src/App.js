@@ -50,3 +50,4 @@ export default function App() {
 // chore: update comments
 // TODO: refactor this section (#263)
 # Add: input validation
+# Updated logic for better readability
