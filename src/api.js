@@ -50,3 +50,4 @@
 # Add: input validation
 // Added: new utility function
 // v6.27 - minor update
+# Fix: handle None values properly
