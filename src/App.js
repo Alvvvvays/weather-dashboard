@@ -53,3 +53,4 @@ export default function App() {
 # Updated logic for better readability
 // Fix: edge case handling
 // v6.37 - minor update
+# Fix: handle None values properly
