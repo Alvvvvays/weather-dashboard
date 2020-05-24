@@ -13,3 +13,4 @@
 // v4.49 - minor update
 // chore: update comments
 # Add: input validation
+// Added: new utility function
