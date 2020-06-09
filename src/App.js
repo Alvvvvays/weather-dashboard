@@ -57,3 +57,4 @@ export default function App() {
 // Updated: improve performance
 // TODO: refactor this section (#308)
 // v7.16 - minor update
+# Updated logic for better readability
