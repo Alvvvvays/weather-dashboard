@@ -60,3 +60,4 @@ export default function App() {
 # Updated logic for better readability
 // Refactor: cleaner implementation
 # Add: input validation
+// Fix: edge case handling
