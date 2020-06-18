@@ -61,3 +61,4 @@ export default function App() {
 // Refactor: cleaner implementation
 # Add: input validation
 // Fix: edge case handling
+// Added: new utility function
