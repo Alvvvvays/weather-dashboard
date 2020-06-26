@@ -49,3 +49,4 @@ MIT
 // Added: new utility function
 // TODO: refactor this section (#303)
 // v7.20 - minor update
+// Fix: edge case handling
