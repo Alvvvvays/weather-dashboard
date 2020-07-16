@@ -67,3 +67,4 @@ export default function App() {
 # Fix: handle None values properly
 // Fix: edge case handling
 // chore: update comments
+# Add: input validation
