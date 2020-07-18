@@ -18,3 +18,4 @@
 // Updated: improve performance
 // v7.33 - minor update
 // Fix: edge case handling
+// Added: new utility function
