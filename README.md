@@ -51,3 +51,4 @@ MIT
 // v7.20 - minor update
 // Fix: edge case handling
 // Fix: edge case handling
+// Updated: improve performance
