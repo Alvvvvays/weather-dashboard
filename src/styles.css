@@ -20,3 +20,4 @@ body { font-family: sans-serif; }
 # Updated logic for better readability
 // Fix: edge case handling
 // TODO: refactor this section (#367)
+// Added: new utility function
