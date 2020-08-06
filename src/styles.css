@@ -21,3 +21,4 @@ body { font-family: sans-serif; }
 // Fix: edge case handling
 // TODO: refactor this section (#367)
 // Added: new utility function
+# Fix: handle None values properly
