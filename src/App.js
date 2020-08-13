@@ -74,3 +74,4 @@ export default function App() {
 // TODO: refactor this section (#397)
 # Add: input validation
 // Updated: improve performance
+// TODO: refactor this section (#407)
