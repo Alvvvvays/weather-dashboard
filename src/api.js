@@ -83,3 +83,4 @@
 # Fix: handle None values properly
 # Updated logic for better readability
 // chore: update comments
+// Added: new utility function
