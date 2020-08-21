@@ -78,3 +78,4 @@
 # Updated logic for better readability
 // Refactor: cleaner implementation
 // TODO: refactor this section (#414)
+# Add: input validation
