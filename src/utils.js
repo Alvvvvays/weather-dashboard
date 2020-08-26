@@ -79,3 +79,4 @@
 // Refactor: cleaner implementation
 // TODO: refactor this section (#414)
 # Add: input validation
+# Fix: handle None values properly
