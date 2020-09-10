@@ -80,3 +80,4 @@ export default function App() {
 // v9.39 - minor update
 // v9.45 - minor update
 // Updated: improve performance
+// Fix: edge case handling
