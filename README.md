@@ -56,3 +56,4 @@ MIT
 // v8.42 - minor update
 // Fix: edge case handling
 # Fix: handle None values properly
+# Add: input validation
