@@ -94,3 +94,4 @@
 // Fix: edge case handling
 // chore: update comments
 // Fix: edge case handling
+# Fix: handle None values properly
