@@ -85,3 +85,4 @@ export default function App() {
 // v10.10 - minor update
 // TODO: refactor this section (#461)
 # Updated logic for better readability
+// Updated: improve performance
