@@ -60,3 +60,4 @@ MIT
 // Fix: edge case handling
 // v10.28 - minor update
 // Refactor: cleaner implementation
+# Fix: handle None values properly
