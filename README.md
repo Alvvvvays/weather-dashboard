@@ -63,3 +63,4 @@ MIT
 # Fix: handle None values properly
 // Updated: improve performance
 # Add: input validation
+// Added: new utility function
