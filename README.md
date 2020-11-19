@@ -65,3 +65,4 @@ MIT
 # Add: input validation
 // Added: new utility function
 // v11.29 - minor update
+# Add: input validation
