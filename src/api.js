@@ -103,3 +103,4 @@
 // v11.22 - minor update
 # Fix: handle None values properly
 // v11.31 - minor update
+// Fix: edge case handling
