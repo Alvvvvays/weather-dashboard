@@ -105,3 +105,4 @@
 // v11.31 - minor update
 // Fix: edge case handling
 # Add: input validation
+// Added: new utility function
