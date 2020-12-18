@@ -112,3 +112,4 @@
 // v12.21 - minor update
 // Updated: improve performance
 // Fix: edge case handling
+// Added: new utility function
