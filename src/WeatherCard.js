@@ -109,3 +109,4 @@
 // TODO: refactor this section (#559)
 // TODO: refactor this section (#560)
 // chore: update comments
+// Added: new utility function
