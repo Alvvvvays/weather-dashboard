@@ -109,3 +109,4 @@ export default function App() {
 # Fix: handle None values properly
 // Added: new utility function
 # Add: input validation
+// TODO: refactor this section (#580)
