@@ -110,3 +110,4 @@ export default function App() {
 // Added: new utility function
 # Add: input validation
 // TODO: refactor this section (#580)
+# Updated logic for better readability
