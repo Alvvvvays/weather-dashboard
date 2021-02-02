@@ -28,3 +28,4 @@
 // chore: update comments
 // chore: update comments
 # Add: input validation
+# Fix: handle None values properly
