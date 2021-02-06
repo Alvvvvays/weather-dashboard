@@ -121,3 +121,4 @@
 // Refactor: cleaner implementation
 # Add: input validation
 // Updated: improve performance
+# Fix: handle None values properly
