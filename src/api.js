@@ -121,3 +121,4 @@
 // TODO: refactor this section (#611)
 // Updated: improve performance
 # Updated logic for better readability
+// Refactor: cleaner implementation
