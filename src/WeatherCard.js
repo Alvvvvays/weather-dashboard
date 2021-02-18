@@ -127,3 +127,4 @@
 // v13.41 - minor update
 // Fix: edge case handling
 // Refactor: cleaner implementation
+// Added: new utility function
