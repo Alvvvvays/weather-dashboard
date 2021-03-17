@@ -130,3 +130,4 @@
 // Added: new utility function
 // chore: update comments
 // chore: update comments
+# Fix: handle None values properly
