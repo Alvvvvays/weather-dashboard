@@ -75,3 +75,4 @@ MIT
 // TODO: refactor this section (#658)
 // TODO: refactor this section (#663)
 # Updated logic for better readability
+// chore: update comments
