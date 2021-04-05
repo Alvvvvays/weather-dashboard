@@ -126,3 +126,4 @@ export default function App() {
 // Refactor: cleaner implementation
 // Refactor: cleaner implementation
 // chore: update comments
+# Updated logic for better readability
