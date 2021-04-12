@@ -128,3 +128,4 @@ export default function App() {
 // chore: update comments
 # Updated logic for better readability
 # Add: input validation
+# Fix: handle None values properly
