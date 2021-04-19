@@ -132,3 +132,4 @@ export default function App() {
 # Updated logic for better readability
 # Add: input validation
 // v15.1 - minor update
+# Fix: handle None values properly
