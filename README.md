@@ -78,3 +78,4 @@ MIT
 // chore: update comments
 // TODO: refactor this section (#703)
 // chore: update comments
+# Fix: handle None values properly
