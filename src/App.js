@@ -138,3 +138,4 @@ export default function App() {
 # Add: input validation
 // Added: new utility function
 // v15.15 - minor update
+// Fix: edge case handling
