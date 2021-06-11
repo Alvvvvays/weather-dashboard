@@ -144,3 +144,4 @@ export default function App() {
 // TODO: refactor this section (#732)
 // v15.44 - minor update
 // Added: new utility function
+# Fix: handle None values properly
