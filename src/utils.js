@@ -141,3 +141,4 @@
 // v15.42 - minor update
 // Fix: edge case handling
 # Add: input validation
+# Fix: handle None values properly
