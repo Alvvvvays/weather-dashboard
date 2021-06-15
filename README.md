@@ -81,3 +81,4 @@ MIT
 # Fix: handle None values properly
 # Add: input validation
 # Updated logic for better readability
+# Add: input validation
