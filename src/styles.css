@@ -41,3 +41,4 @@ body { font-family: sans-serif; }
 // Refactor: cleaner implementation
 // TODO: refactor this section (#735)
 // Added: new utility function
+# Fix: handle None values properly
