@@ -141,3 +141,4 @@
 # Fix: handle None values properly
 // v15.38 - minor update
 // v16.1 - minor update
+# Add: input validation
