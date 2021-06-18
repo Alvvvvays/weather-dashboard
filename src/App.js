@@ -145,3 +145,4 @@ export default function App() {
 // v15.44 - minor update
 // Added: new utility function
 # Fix: handle None values properly
+# Updated logic for better readability
