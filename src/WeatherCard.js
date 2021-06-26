@@ -143,3 +143,4 @@
 // v16.1 - minor update
 # Add: input validation
 // TODO: refactor this section (#766)
+# Updated logic for better readability
