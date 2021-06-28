@@ -144,3 +144,4 @@
 # Add: input validation
 // TODO: refactor this section (#766)
 # Updated logic for better readability
+# Fix: handle None values properly
